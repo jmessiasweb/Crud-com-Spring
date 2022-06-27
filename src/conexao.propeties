@@ -1,0 +1,3 @@
+banco.url=jdbc: mysql://localhost:3306/endereço_do_banco?veridyServerCertificate=fase&useSSL=true
+banco.usuario=root
+banco.senha=12345678
